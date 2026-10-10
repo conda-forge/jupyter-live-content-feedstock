@@ -47,3 +47,4 @@ extra:
   recipe-maintainers:
     - dlqqq
     - krassowski
+    - conda-forge/jupyter-ai

@@ -190,6 +190,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@conda-forge/jupyter-ai](https://github.com/orgs/conda-forge/teams/jupyter-ai/)
 * [@dlqqq](https://github.com/dlqqq/)
 * [@krassowski](https://github.com/krassowski/)
 
